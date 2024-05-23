@@ -5,16 +5,16 @@ Animations play a crucial role in enhancing user experience in mobile applicatio
 
 ## Examples
 
-<button onclick="https://medium.com/@sivakarthikayan.cs/creating-engaging-animations-in-flutter-using-tweenanimationbuilder-783eadb2af84"  style="text-align: center">
+<div  style="text-align: center">
     <table>
         <tr>
             <td style="text-align: center">
-                <a>
+                <a href="https://medium.com/@sivakarthikayan.cs/creating-engaging-animations-in-flutter-using-tweenanimationbuilder-783eadb2af84">
                     <img src="https://github.com/sivakarthikayan-cs/tween_animation_builder_examples/assets/139855522/4b0ace59-34c3-40fc-8592-329486fca3c1" width="200"/>
                 </a>
             </td>            
             <td style="text-align: center">
-                <a >
+                <a href="https://medium.com/@sivakarthikayan.cs/creating-engaging-animations-in-flutter-using-tweenanimationbuilder-783eadb2af84">
                     <img src="https://github.com/sivakarthikayan-cs/tween_animation_builder_examples/blob/master/assets/gif/ColorAnimationWithSlider_tween.gif?raw=true" width="200"/>
                 </a>
             </td>
@@ -42,4 +42,4 @@ Animations play a crucial role in enhancing user experience in mobile applicatio
             </td>
         </tr>
     </table>
-</button>
+</div>
