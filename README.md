@@ -3,6 +3,8 @@
 TweenAnimationBuilder example.
 
 ## Getting Started
+![ColorAnimation_tween](https://github.com/sivakarthikayan-cs/tween_animation_builder_examples/assets/139855522/39402e00-dfa4-48c0-85e9-d9b513b2e3f7)
+
 
 This project is a starting point for a Flutter application.
 
