@@ -5,7 +5,7 @@ Animations play a crucial role in enhancing user experience in mobile applicatio
 
 ## Examples
 
-<div style="text-align: center">
+<button  style="text-align: center">
     <table>
         <tr>
             <td style="text-align: center">
@@ -42,4 +42,4 @@ Animations play a crucial role in enhancing user experience in mobile applicatio
             </td>
         </tr>
     </table>
-</div>
+</button>
