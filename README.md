@@ -4,6 +4,10 @@ TweenAnimationBuilder example.
 
 ## Getting Started
 
+![BouncingLogo_tween_animation_builder](https://github.com/sivakarthikayan-cs/tween_animation_builder_examples/assets/139855522/4b0ace59-34c3-40fc-8592-329486fca3c1)
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
